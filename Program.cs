@@ -8,7 +8,7 @@ namespace HelloWorld
     {
       Console.WriteLine("Hello World!");
       SomeClass myClass = new SomeClass(12, "gica");
-      myClass.printName();
+      myClass.PrintName();
     }
   }
 }

@@ -15,7 +15,7 @@ namespace HelloWorld
       this.name = name;
     }
 
-    public void printName()
+    public void PrintName()
     {
       System.Console.WriteLine(String.Format("name = {0}", this.name));
     }
